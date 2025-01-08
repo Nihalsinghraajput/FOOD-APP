@@ -27,8 +27,8 @@ import CityContext from "./utils/CityContext";
 
 const AppLayout = () => {
 	const [user, setUser] = useState({
-		name: "Aditya Gupta",
-		email: "adityaastic@gmail.com",
+		name: "Nihal Singh",
+		email: "nihalsinghrj8080@gmail.com",
 	});
 	const [location, setLocation] = useState({
 		latitude: 28.7040592, // Delhi

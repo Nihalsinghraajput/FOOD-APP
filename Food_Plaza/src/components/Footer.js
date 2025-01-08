@@ -9,7 +9,7 @@ const Footer = () => {
 				<div className="footer-s">
 					<div>
 						<h3>Food Home</h3>
-						<p>© 2024 Aditya@</p>
+						<p>© 2024 Nihal@</p>
 						<p>Pvt. Ltd</p>
 					</div>
 					<div className="social">
@@ -18,7 +18,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://www.linkedin.com/in/aditya-gupta-217505299/"
+									href=" https://www.linkedin.com/in/nihal-singh-854455211/"
 									target="_blank"
 								>
 									LinkedIn
