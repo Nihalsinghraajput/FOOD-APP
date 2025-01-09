@@ -7,8 +7,8 @@ class Profile extends Component {
 			count: 0,
 			count2: 10,
 			userInfo: {
-				name: "Aditya Gupta",
-				login: "adityaastic",
+				name: "Nihal Singh",
+				login: "nihalrajput",
 				bio: "WEB - DEVELOPER ( MERN STACK ) | |  JAVA | PYTHON | DSA  |",
 				location: "GORKHAPUR, U.P",
 				html_url: "https://github.com/adityaastic",

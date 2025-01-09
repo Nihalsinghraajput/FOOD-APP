@@ -3,11 +3,11 @@ import { useEffect, useState } from "react";
 const Profile = () => {
 	const [count, setCount] = useState(0);
 	const [user, setUser] = useState({
-		name: "ADITYA GUPTA",
-		login: "adityaastic",
+		name: "NIHAL SINGH",
+		login: "nihalrajput",
 		bio: "WEB - DEVELOPER ( MERN STACK ) | |  JAVA | PYTHON | DSA  |",
 		location: "PATNA, BIHAR",
-		html_url: "https://github.com/adityaastic",
+		html_url: "https://github.com/https://github.com/Nihalsinghraajput",
 		avatar_url: "https://avatars.githubusercontent.com/u/123500528?v=4",
 		followers: 0,
 		following: 2,
@@ -17,7 +17,7 @@ const Profile = () => {
 		const getUserData = async () => {
 			try {
 				const data = await fetch(
-					"https://api.github.com/users/adityaastic"
+					"https://api.github.com/users/astic"
 				);
 				const json = await data.json();
 				console.log(json);

@@ -29,7 +29,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://github.com/adityaastic"
+									href="https://github.com/https://github.com/Nihalsinghraajput"
 									target="_blank"
 								>
 									GitHub
@@ -40,7 +40,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://www.instagram.com/aditya_astic/"
+									href="https://www.instagram.com/ll__nihal_rajput__ll/"
 									target="_blank"
 								>
 									Instagram
