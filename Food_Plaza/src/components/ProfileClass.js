@@ -11,7 +11,7 @@ class Profile extends Component {
 				login: "nihalrajput",
 				bio: "WEB - DEVELOPER ( MERN STACK ) | |  JAVA | PYTHON | DSA  |",
 				location: "GORKHAPUR, U.P",
-				html_url: "https://github.com/adityaastic",
+				html_url: "https://github.com/Nihaalsinghraajput",
 				avatar_url:
 				"https://avatars.githubusercontent.com/u/123500528?v=4",
 				followers: 0,
