@@ -29,7 +29,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://github.com/https://github.com/Nihalsinghraajput"
+									href="https://github.com/Nihalsinghraajput"
 									target="_blank"
 								>
 									GitHub
